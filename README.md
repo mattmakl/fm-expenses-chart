@@ -27,6 +27,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - **Bonus**: Use the JSON data file provided to dynamically size the bars on the chart
 
+### Screenshot
+
+![](./screenshot.jpg)
+
 ### Links
 
 - Live Site URL: [Github](https://mattmakl.github.io/fm-expenses-chart/))
