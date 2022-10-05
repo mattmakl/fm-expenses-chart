@@ -77,7 +77,7 @@ main {
     flex-direction: column;
 }
 
-.day-container:has( .day-bar:hover) .day-amount{
+.day-container:has(.day-bar):hover .day-amount{
     opacity:1;
 }
 
